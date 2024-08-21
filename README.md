@@ -2,7 +2,7 @@
 
 🚀 **SmartHarvest AI** is an innovative agriculture-based platform designed to empower farmers and agricultural professionals through ML-driven insights. Our project is dedicated to transforming traditional farming practices by integrating machine learning models that enhance decision-making and optimize resources.
 
-## 📺 **Demo ~**
+## 📺 **Demo**
 
 - 🌱 **[SmartHarvest AI Demo](https://www.youtube.com/watch?v=QEjox5OJFsQ)**
 ---
