@@ -67,6 +67,21 @@ The Farm Loan Prediction model assists in predicting loan eligibility by assessi
 
 ---
 
+## 📋 **Requirements**
+
+Ensure you have the following installed to run the models:
+- **Python 3.x**
+- **TensorFlow**
+- **Scikit-learn**
+- **OpenCV**
+- **Pandas**
+- **NumPy**
+
+Install the required Python packages using:
+```bash
+pip install -r requirements.txt
+```
+
 ## 📒 **Summary**
 
 **SmartHarvest AI** is more than just a tool—it's a transformative platform designed to make farming smarter, more sustainable, and more profitable. By harnessing the power of AI and Machine Learning, we are paving the way for a new era in agriculture.
