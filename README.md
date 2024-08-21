@@ -72,7 +72,7 @@ The Farm Loan Prediction model assists in predicting loan eligibility by assessi
 
 ## 📺 **Demo & GitHub Repositories**
 
-- 🌱 **[SmartHarvest AI Demo]([https://lnkd.in/dMnTgMfm](https://www.youtube.com/watch?v=QEjox5OJFsQ))**
+- 🌱 **[SmartHarvest AI Demo](https://www.youtube.com/watch?v=QEjox5OJFsQ)**
 
 ---
 
